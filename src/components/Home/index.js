@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import LogoTitle from '../../images/logo-s.png'
-import priyanshu_arya from '../../assets/Resume/Priyanshu Arya.pdf'
+import priyanshu_arya from '../../assets/Resume/Priyanshu_Arya.pdf'
 import Logo from './Logo'
 import './index.scss'
 
